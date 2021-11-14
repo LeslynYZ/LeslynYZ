@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeslynYZ
-- 👀 I make 2D art!
-- 🌱 I’m currently learning Design
-- 💞️ I’m looking to collaborate on games
+- 👀 I make art and do some coding. 
+- 🌱 I’m currently learning Design. 
+- 💞️ I’m looking to collaborate on games and game placement! 
 - 📫 Discord Prancake#7925
 
 <!---
